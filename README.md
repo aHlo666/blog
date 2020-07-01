@@ -1,10 +1,10 @@
 # 本博客使用了[bit-ranger](https://github.com/bit-ranger)的模版
 
-##[点我查看中文说明/Click here for Chinese instructions](https://github.com/hanyihang/hanyihang.github.io/blob/master/README_zh_CN.md)
+##[点我查看中文说明/Click here for Chinese instructions](https://github.com/aHlo666/blog/blob/master/README_zh_CN.md)
 
 # Blog Address
 
-<https://hanyihang.github.io/blog>
+<https://ahlo666.github.io/blog/>
 
 
 # Must Modify
