@@ -206,6 +206,7 @@ a:active {text-decoration: none}	/* 选定的链接 */
 	position: fixed;
 	top: 0;
 	left: 0;
+	width: 100%;
 	z-index: 3;
 }
 
